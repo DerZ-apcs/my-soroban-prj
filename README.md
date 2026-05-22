@@ -1,4 +1,4 @@
-markdown_content = """# Transparent Volunteer Fund
+# Transparent Volunteer Fund
 
 A DAO-like escrow smart contract built on Stellar Soroban. This project aims to bring complete transparency and accountability to charitable donations and volunteer campaigns by leveraging blockchain technology for fund tracking, proposal-based withdrawals, and donor-driven voting mechanisms.
 
