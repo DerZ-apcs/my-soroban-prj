@@ -67,6 +67,8 @@ stellar contract invoke \\
   --caller <DONOR_WALLET_ADDRESS> \\
   --amount 100000000
 ```
+<img width="1229" height="707" alt="image" src="https://github.com/user-attachments/assets/c33be2e4-3db3-4a2f-a6bf-2b230b743845" />
+
 
     Developer: Le Duc Thinh (Lê Đức Thịnh)
     Student ID: 24125045
